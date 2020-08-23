@@ -41,9 +41,12 @@ The Clock Rate or CPU Time is calculated and the output is printed:
           scanf("%i", &c);
           cpu = t*i*c;
 
-		  printf("The CPU execution time corresponding to these parameters is: %.1f seconds.", cpu);
+	printf("The CPU execution time corresponding to these parameters is: %.1f seconds.", cpu);
      }
      }
      }
-## 
-
+## Skills
+* Presented my knowledge in computer archtecture
+* Fluency in C, Submlime Text
+* Proper code writing style and syntax
+* Expressed the importance of studying computer organization and design to write efficient programs
